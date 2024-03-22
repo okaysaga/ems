@@ -86,6 +86,14 @@ Contributions are welcome! If you'd like to contribute to the development of the
 4. Push to the branch (`git push origin feature/my-feature`)
 5. Create a new Pull Request
 
+## demo video 
+
+
+
+https://github.com/okaysaga/ems/assets/137327316/aace2d36-fc0c-4ba0-b887-6eae6efe8630
+
+
+
 ## License
 
 This project is licensed under the [insert license type, e.g., MIT License] - see the [LICENSE](LICENSE) file for details.
